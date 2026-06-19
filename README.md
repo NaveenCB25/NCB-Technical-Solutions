@@ -97,6 +97,6 @@ To provide simple and practical technical solutions for computers, laptops, soft
 
 ## 👨‍💻 Author
 
-**NCB Technical Solution**
+**Naveena C B**
 
 *"Learn • Troubleshoot • Solve"*
